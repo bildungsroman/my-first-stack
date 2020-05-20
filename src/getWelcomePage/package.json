@@ -1,6 +1,7 @@
 {
-  "private": true,
-  "dependencies": {
+  "name": "getwelcomepage",
+  "version": "1.0.0",
+  "devDependencies": {
     "aws-sdk": "~2"
   }
 }
